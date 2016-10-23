@@ -5,9 +5,6 @@ public class Computador {
 	Memoria memoria;
 	Disco disco;
 	
-	Computador(){
-		this("",null,null,null);
-	}
 	
 	Computador(String fabricante, Processador processador, Memoria memoria, Disco disco){
 		this.fabricante = fabricante;

@@ -14,7 +14,9 @@ public class IdadeUfam {
 		
 		int idade = anoAtual - 1909;
 		
+		
 		System.out.printf("A UFAM tem %d anos de fundacao", idade);
+		System.out.println();
 		
 	}
 	

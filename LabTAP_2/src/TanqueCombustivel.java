@@ -21,6 +21,8 @@ public class TanqueCombustivel {
 		} else {
 			System.out.printf("%.4f",volumeDeCombustivel);
 		}
+		
+		scan.close();
 	}
 
 }
