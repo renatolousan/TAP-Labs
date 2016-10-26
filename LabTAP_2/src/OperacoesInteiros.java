@@ -3,10 +3,10 @@
  Data: 17/10/16
  Descricao: Programa que faz a soma de varias colecoes
  */
-
+sdfsdfds
 import java.util.Scanner;
 
-public class SomaColecoes {
+public class OperacoesInteiros {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int prev_number = 0;
